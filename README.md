@@ -1,5 +1,5 @@
 <p align="center">
-	<h1 align="center">Pidrive + Bling :bear:</h1>
+	<h1 align="center">API iNTEGRATION **Pidrive** AND **Bling** </h1>
 </p>
 
 <p align="center">
@@ -18,13 +18,13 @@
 
 <br>
 
-## ✅ Must-Have
+## ✔ Must-Have
 
-✔ Create test accounts at Pipedrive and Bling\
-✔ Create a integrations between Pipedrive and Bling. (The ingration should search the deals with status equal to won at Pipedrive, after that insert as buy order at Bling)\
-✔ Create Mongo database\
-✔ Create a colletion at MongoDB database, adding the deals inserted on Bling, by day and total amount\
-✔ Create a endpoint to return data from MongoDB's collection
+* Create test accounts at Pipedrive and Bling\
+* Create a integrations between Pipedrive and Bling. (The ingration should search the deals with status equal to won at Pipedrive, after that insert as buy order at Bling)\
+* Create Mongo database\
+* Create a colletion at MongoDB database, adding the deals inserted on Bling, by day and total amount\
+* Create a endpoint to return data from MongoDB's collection
 
 ## 🚀 Technologies
 
@@ -48,6 +48,7 @@ documentation:
 Swagger
 API Blueprint
 RAML
+Documenter Postman
 
 Transform Clean Architecture.
 
