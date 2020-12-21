@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">API INTEGRATION <b>Pidrive &  Bling</b> </h1>
+<h1 align="center">API Integration Pidrive & Bling </h1>
 </p>
 
 <p align="center">
@@ -8,12 +8,6 @@
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-How-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
-</p>
-
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 </p>
 
 <br>
@@ -48,7 +42,6 @@ documentation:
 Swagger
 API Blueprint
 RAML
-Documenter Postman
 
 Transform Clean Architecture.
 
