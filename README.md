@@ -1,5 +1,5 @@
 <p align="center">
-	<h1 align="center">API iNTEGRATION **Pidrive** AND **Bling** </h1>
+<h1 align="center">API INTEGRATION <b>Pidrive &  Bling</b> </h1>
 </p>
 
 <p align="center">
