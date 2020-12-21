@@ -45,17 +45,39 @@ RAML
 
 Transform Clean Architecture.
 
-## 🏃 How to Run
+## 🤝 Contributing  
 
-- Make a fork;
-- Open the project on your terminal;
-- Run `yarn install` or `npm install` to install Dependencies;
-- Run `yarn dev` or `npm run dev` to run the server;
+There are many forms to contribute with the project, first of all you can give this github repo a Star.
+
+If you want do help with the code follow the steps bellow
+
+```ts
+# Fork using GitHub official command line
+# If you don't have the GitHub CLI, use the web site to do that.
+$ gh repo fork PF-Henrique/NLW-2-Proffy
+
+# Clone your fork
+$ git clone {your-fork-url}
+$ cd LinkApi-challenge
+
+# Create a branch with your feature
+$ git checkout -b {branch-name}
+
+# Make the commit with your changes
+$ git commit -m 'Feat: {feature-name}'
+
+# Send the code to your remote branch
+$ git push origin {branch-name}
+```
+
+Then send a Pull Request that will be analyzed and approved if it helps with the project
+
+---
+
+- `yarn start` or `npm run start` 🎲
 - By default the server will run at `localhost:3333`.
 
-#### More informations at [API's Documentation](https://documenter.getpostman.com/view/11958037/TVYKZvnE).
-
-## 🤔 How to contribute
+##  How to contribute
 
 - Make a fork;
 - Create a branch with your feature: `git checkout -b my-feature`;
